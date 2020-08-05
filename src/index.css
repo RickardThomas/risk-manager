@@ -1,0 +1,12 @@
+body {
+
+    margin: 0;
+    box-sizing: border-box; 
+    padding: 20px;
+
+
+    background-color: #282c34;
+    color: white;
+
+    font-family: "Averta","Avenir W02","Avenir", Helvetica, Arial, sans-serif;
+  }
